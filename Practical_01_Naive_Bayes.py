@@ -2,10 +2,6 @@
 # PRACTICAL 1: Naïve Bayes Classifier
 # Dataset: Iris Dataset (UCI ML Repository)
 # ============================================================
-
-# --- Install if needed ---
-# pip install scikit-learn pandas numpy matplotlib seaborn
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
